@@ -5,7 +5,7 @@
 
 - 📫 Bizlere Mail ile ulaşabilirsiniz! **iletisim@yenimedyaduzeni.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Sosyal Medya:</h3>
 <p align="left">
 <a href="https://twitter.com/https://twitter.com/ymddotcom" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/ymddotcom" height="30" width="40" /></a>
 </p>
